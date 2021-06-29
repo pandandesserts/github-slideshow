@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+_eunoia is a neat word_
 Use the left arrow to go back!
